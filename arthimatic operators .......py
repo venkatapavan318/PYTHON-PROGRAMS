@@ -1,0 +1,18 @@
+#arthimatic operators
+
+x=eval(input(" enter a value : "))
+y=eval(input(" enter a value : "))
+print(f"{x}+{y}={x+y}")
+print(35*"__")
+print(f"{x}-{y}={x-y}")
+print(35*"__")
+print(f"{x}*{y}={x*y}")
+print(35*"__")
+print(f"{x}/{y}={x/y}")
+print(35*"__")
+print(f"{x}**{y}={x**y}")
+print(35*"__")
+print(f"result of floor division :{x}//{y}={x//y}")
+print(35*"__")
+print(f"Reminder: {x}%{y}={x%y}")
+print(35*"__")
